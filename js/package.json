@@ -1,0 +1,28 @@
+{
+  "name": "project-leap-year-calculator",
+  "version": "1.0.0",
+  "description": "Leap Year Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Leap",
+    "Year",
+    "Calculator",
+    "Jest",
+    "TDD",
+    "ES6",
+    "Javascript"
+  ],
+  "author": "Tom Brereton",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.5.0",
+    "jest-babel": "^1.0.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
