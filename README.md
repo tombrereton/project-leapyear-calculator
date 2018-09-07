@@ -1,7 +1,7 @@
-Run Test
+Run Tests
 ---
 
-In the terminal:
+In the terminal/powershell window clone the repository into the folder of your choice:
 1. `git clone https://github.com/tombrereton/project-leapyear-calculator.git`
 2. `cd project-leapyear-calculator`
 
