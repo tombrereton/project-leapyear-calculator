@@ -15,7 +15,7 @@ npm install
 ```
 4. Open VS Code in this folder by typing `code .`
 5. Open the VS Code extension pane (Ctrl+Shift+x), search for "Jest" and install the first one
-6. Once installed, open `tests/leapyear-calculator.test.js` and you should see green dots next to the tests which means they passed
+6. Once installed, open `tests/leapyear-calculator.test.js` and you should see green dots next to the tests which means they passed. If they're not a solid greeen it means it didn't run. This is likely because you need to run `npm install` or install the Jest extension.
 7. Try changing the code `src/leapyear-calculator.js` to make it fail
 
 ---
